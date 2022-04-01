@@ -1,0 +1,7 @@
+{
+    "input_dir": "tests/inputs/standard",
+    "output_dir": "tests/output",
+    "stop_on_first_crash": true,
+    "mutator": "ascii",
+    "invocation": "../bin/file_target @@"
+}
